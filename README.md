@@ -30,10 +30,11 @@
 - Integrate cable management clips for charging cables or accessories.
 - Print in stronger materials (e.g., PETG/ABS) or add reinforcements for larger/heavier drones.
 - Wall-mount variations (e.g., shelf-style stand or multi-drone rack).
+- Test different print faces to get a nice even finish on the front
 
 # Model Photo
-![Drone securely held in custom 3D-printed wall mount]()
-![Custom wall-mounted drone holder with precise fit]() 
+![Drone securely held in custom 3D-printed wall mount](https://github.com/Alec-Hudson24/Drone-Holder/blob/main/Drone%20In%20Holder.jpeg)
+![Custom wall-mounted drone holder with precise fit](https://github.com/Alec-Hudson24/Drone-Holder/blob/main/Holder.jpeg) 
 
 
 *This was a personal DIY project to improve drone storage and organization*
