@@ -35,7 +35,8 @@
 # Model Photo
 ![Drone securely held in custom 3D-printed wall mount](https://github.com/Alec-Hudson24/Drone-Holder/blob/main/Drone%20In%20Holder.jpeg)
 ![Custom wall-mounted drone holder with precise fit](https://github.com/Alec-Hudson24/Drone-Holder/blob/main/Holder.jpeg) 
-
+![Drone Holder](https://github.com/Alec-Hudson24/Drone-Holder/blob/main/Drone%20Drawing.jpeg)
+![{Dimensions](https://github.com/Alec-Hudson24/Drone-Holder/blob/main/Drone%20Dimensions.jpeg)
 
 *This was a personal DIY project to improve drone storage and organization*
 
